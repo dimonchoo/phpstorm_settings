@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="pf" value="public function action$END$ ($args)&#10;{&#10;    return ;&#10;}" description="public function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+</templateSet>
